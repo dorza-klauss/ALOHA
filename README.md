@@ -24,7 +24,7 @@ The simulation is stopped when the absolute value of the difference between the 
 
 ### Plots: 
 
-The theoretical and simulated throughputs are plotted.
+The theoretical and simulated throughput vs load graphs are plotted.
 
 ![.](https://github.com/dorza-klauss/ALOHA/blob/main/results/plotV3.jpeg)
 
