@@ -29,11 +29,4 @@ The theoretical and simulated throughputs are plotted.
 ![.](https://github.com/dorza-klauss/ALOHA/blob/main/results/plotV3.jpeg)
 
 
-To run this code in vscode, use, assuming that the saved drive is D:\ and the folder name is MAC protocols: 
-
-'''bash
-   cd "d:\MAC protocols\" ; if ($?) { g++ packet.cpp wirelessnode.cpp main.cpp -o main } ; if ($?) { .\main }
-'''
-
-
 
