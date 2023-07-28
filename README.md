@@ -27,6 +27,7 @@ The theoretical and simulated throughput vs load graphs are plotted.
 ![.](https://github.com/dorza-klauss/ALOHA/blob/main/results/plotV3.jpeg)
 
 Next, instead of six nodes, twelve nodes were considered, and a throughput comparison was done between the two instances. 
+
 ![.](https://github.com/dorza-klauss/ALOHA/blob/main/results/plotV4.jpeg)
 
 
